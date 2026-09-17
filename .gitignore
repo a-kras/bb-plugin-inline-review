@@ -1,0 +1,13 @@
+dist/
+node_modules/
+.hermes/
+.env
+.env.*
+!.env.example
+.npmrc
+*.key
+*.pem
+*.p12
+*.pfx
+*.keystore
+.DS_Store
