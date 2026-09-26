@@ -69,7 +69,7 @@ human reading the chat can understand what should change.
 bb plugin install git:https://github.com/rdanhau/bb-plugin-inline-review.git@semver:^1.0.0
 ```
 
-Inline Review 1.x supports BB 0.43.x.
+Inline Review 1.0.1+ supports BB 0.44 and later.
 
 ## Develop
 
@@ -83,7 +83,7 @@ bb plugin install . --yes
 ```
 
 After edits, run `bb plugin build` and `bb plugin reload inline-review`, or use
-`bb plugin dev`. The exact SDK pin is 0.4.87; the manifest targets BB 0.43.x.
+`bb plugin dev`. The SDK pin is 0.5.29; the manifest targets BB 0.44+.
 Tests include the SDK's public-import scanner.
 
 ## Behavior details

@@ -4,6 +4,10 @@ All notable changes to Inline Review are documented here.
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-09-26
+
+- Support BB 0.44 and later (no upper bound); move to Plugin SDK 0.5.29.
+
 ## [1.0.0] - 2026-09-17
 
 - Annotate native assistant-message selections with comments or removal requests.

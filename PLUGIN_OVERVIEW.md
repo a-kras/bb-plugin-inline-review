@@ -14,7 +14,7 @@ The collapsed **Feedback** banner appears after the first annotation. Expand it 
 
 ## Storage and requirements
 
-Each thread has its own server-side draft. Drafts survive navigation, browser reloads, and BB restarts. Inline Review uses no external service and requires no additional account. It supports BB 0.43.x with Plugin SDK 0.4.87.
+Each thread has its own server-side draft. Drafts survive navigation, browser reloads, and BB restarts. Inline Review uses no external service and requires no additional account. It supports BB 0.44+ with Plugin SDK 0.5.29+.
 
 ## Focused scope
 
